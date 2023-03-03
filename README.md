@@ -4,7 +4,7 @@
 
  <br/>
   
-🔎Tech Stack📑⚙️📖📚
+⚙️Tech Stack⚙️
   
 💡used as the main💡
  <br/>
