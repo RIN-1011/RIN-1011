@@ -7,6 +7,7 @@
 🔎Tech Stack🔎
   
 💡used as the main💡
+ <br/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
@@ -15,6 +16,7 @@
  <br/>
   
 ✏️used as least once✏️
+ <br/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
@@ -25,6 +27,7 @@
  <br/>
  
 📧Email📧
+ <br/>
 9993hye@gmail.com
  
   <br/>
